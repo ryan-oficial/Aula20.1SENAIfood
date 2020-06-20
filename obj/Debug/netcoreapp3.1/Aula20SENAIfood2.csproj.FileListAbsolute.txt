@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\bin\Debug\netcoreapp3.1\Aula20SENAIfood2.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\obj\Debug\netcoreapp3.1\Aula20SENAIfood2.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\obj\Debug\netcoreapp3.1\Aula20SENAIfood2.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\obj\Debug\netcoreapp3.1\Aula20SENAIfood2.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\obj\Debug\netcoreapp3.1\Aula20SENAIfood2.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula20SENAIfood2\obj\Debug\netcoreapp3.1\Aula20SENAIfood2.pdb
